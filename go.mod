@@ -1,3 +1,3 @@
-module github.com/GeoinovaDev/db-relations
+module github.com/GeoinovaDev/dbrelations
 
 go 1.20
